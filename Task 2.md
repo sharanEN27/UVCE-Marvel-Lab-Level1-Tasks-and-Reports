@@ -45,10 +45,13 @@ Violin plot
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Violin%20plot.png?raw=true)
 
 Marginal plot
+
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Marginal%20plot.png?raw=true)
 
 Contour plot
+
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Contour%20plot.png?raw=true)
 
 Heat map and 3D plot
+
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Heat%20map%20and%203D%20plot.png?raw=true)
