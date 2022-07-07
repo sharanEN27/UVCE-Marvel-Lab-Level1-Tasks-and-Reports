@@ -12,46 +12,46 @@ It is used for basic graph plotting like line charts, bar graphs, etc. It mainly
 The different types of plots which can be used to visualize the dataset are as follows: 
 
 
-Line and area plot
+### Line and area plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Line%20and%20area.png?raw=true)
 
-Scatter and Bubble Plot
+### Scatter and Bubble Plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Scatter%20and%20bubble.png?raw=true)
 
-Simple Bar Plot
+### Simple Bar Plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Simple%20bar%20plot.png?raw=true)
 
-Grouped bar plot
+### Grouped bar plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Grouped%20bar%20plot.png?raw=true)
 
-Stacked bar plot and histogram
+### Stacked bar plot and histogram
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Stacked%20bar%20plot%20and%20histogram.png?raw=true)
 
-Pie plot
+### Pie plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Pie%20plot.png?raw=true)
 
-Box plot
+### Box plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Box%20plot.png?raw=true)
 
-Violin plot
+### Violin plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Violin%20plot.png?raw=true)
 
-Marginal plot
+### Marginal plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Marginal%20plot.png?raw=true)
 
-Contour plot
+### Contour plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Contour%20plot.png?raw=true)
 
-Heat map and 3D plot
+### Heat map and 3D plot
 
 ![](https://github.com/sharanEN27/Marvel-coursework/blob/main/Task%202%20images/Heat%20map%20and%203D%20plot.png?raw=true)
