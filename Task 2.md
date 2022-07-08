@@ -1,11 +1,9 @@
 # Task 2 Report
 ## Matplotlib and Visualizing Data
 
-Data visualization involves graphically plotting data and is an effective way to communicate inferences from data. Using data visualization, we can get a visual summary of our data. With pictures, maps and graphs, the human mind has an easier time processing and understanding any given data. Data visualization plays a significant role in the representation of both small and large data sets, but it is especially useful when we have large data sets, in which it is impossible to see all of our data, let alone process and understand it manually.
-
 Python offers several plotting libraries, namely Matplotlib, Seaborn and many other such data visualization packages with different features for creating informative, customized, and appealing plots to present data in the most simple and effective way.
 
-##Matplotlib
+## Matplotlib
 
 It is used for basic graph plotting like line charts, bar graphs, etc. It mainly works with datasets and arrays. Matplotlib acts productively with data arrays and frames. It regards the aces and figures as objects. It is more customizable and pairs well with Pandas and Numpy for Exploratory Data Analysis.
 
